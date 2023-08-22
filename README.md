@@ -27,8 +27,7 @@ a Billion people, then welcome home...
 
 ## Task
 
-- You are provided with 2 basic screens Dashboard UI. You need to convert the high-
-- Fidelity design into code using React/Next and CSS/SASS/SCSS/LESS/Tailwind CSS.
+
 
 **Note- Use of any other CSS framework is prohibited.**
 
